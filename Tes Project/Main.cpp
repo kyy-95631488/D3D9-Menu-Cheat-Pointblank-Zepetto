@@ -1,4 +1,7 @@
-﻿#include <Windows.h>
+﻿// Simple Menu V1 for Point Blank
+// Copyright (c) 2025 kyy-95631488
+// Licensed under the MIT License. See LICENSE file in the repository root for details.
+#include <Windows.h>
 #include <d3d9.h>
 #include <d3dx9.h>
 #include <cstdio>
