@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tes Project", "Tes Project\Tes Project.vcxproj", "{E52528DB-F80A-46C5-8C15-2006249FA51F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Debug|x64.ActiveCfg = Debug|Win32
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Debug|x64.Build.0 = Debug|Win32
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Debug|x86.Build.0 = Debug|Win32
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Release|x64.ActiveCfg = Release|Win32
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Release|x64.Build.0 = Release|Win32
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Release|x86.ActiveCfg = Release|Win32
+		{E52528DB-F80A-46C5-8C15-2006249FA51F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E52528DB-F80A-46C5-8C15-2006249FA51F} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F7F5FB-83A8-4B3D-9AFF-1207E58BBF5E}
+	EndGlobalSection
+EndGlobal
