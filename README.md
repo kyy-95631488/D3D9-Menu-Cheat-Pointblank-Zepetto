@@ -1,6 +1,6 @@
 # D3D9-Menu-Cheat-Pointblank-Zepetto
 
-A Direct3D9-based cheat menu for Point Blank (Zepetto) with features like ESP, crosshair customization, and anti-kick functionality.
+A Direct3D9-based cheat menu for Point Blank (Zepetto IDN Server) with features like ESP, crosshair customization, and anti-kick functionality.
 
 ## Features
 - **ESP Name Tag**: Displays player name tags with customizable line colors.
@@ -16,7 +16,7 @@ A Direct3D9-based cheat menu for Point Blank (Zepetto) with features like ESP, c
 - **Libraries**:
   - DirectX 9 SDK [Link](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
   - MinHook library [`libMinHook.x86.lib`](https://github.com/TsudaKageyu/minhook)
-- **Game**: Point Blank (Zepetto version)
+- **Game**: Point Blank (Zepetto version IDN Server)
 - **Compiler**: Compatible with C++ compilers supporting Windows API and Direct3D9 (e.g., MSVC)
 
 ## Installation
